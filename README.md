@@ -1,4 +1,4 @@
-# Spotify Songs 2023 - Exploratory Data Analysis 
+# Spotify Songs 2023 - Exploratory Data Analysis (EDA)  
 
 An analysis of the most streamed songs on Spotify in 2023, uncovering trends in track popularity, artist frequency, and musical characteristics.
 
