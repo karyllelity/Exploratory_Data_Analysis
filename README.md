@@ -74,7 +74,7 @@ By running the analysis, you will uncover:
 ### Datetime Handling
 Combine the date-related columns (e.g., `released_day`, `released_month`, `released_year`) into a single column in the format `YYYY-MM-DD` and convert it to the proper datetime format. This ensures easier manipulation and consistency across your data, enhancing accuracy when working with incomplete or inconsistent data.
 
-### Authors
+## Authors
 
 Contributor names and contact info:
 
