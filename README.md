@@ -8,7 +8,18 @@ This project performs an exploratory data analysis (EDA) on the [Most Streamed S
 
 ### Goal
 
-To clean the dataset, handle missing values, convert data types, and perform exploratory data analysis (EDA) to uncover trends and insights regarding track popularity, artist frequency, and musical characteristics.
+To clean the dataset, handle missing values, convert data types, and perform exploratory data analysis (EDA) to uncover trends and insights regarding track popularity, artist performance, and platform usage on Spotify in 2023.
+
+### Data Analysis Results
+
+By running the analysis, you will uncover:
+
+- **Most Streamed Tracks**: Identification of the top tracks of 2023 based on streaming numbers.
+- **Artist Frequency**: Analysis of the most frequently appearing artists in the dataset.
+- **Correlations Between Features**: Insights on how various musical attributes (e.g., energy, danceability, valence) correlate with track popularity, such as which attributes contribute most to the number of streams.
+- **Temporal Trends**: Insights into when tracks were released, identifying trends in release years and months.
+- **Mode Analysis**: Distribution of tracks between Major and Minor modes and their relation to popularity.
+- **Platform Popularity**: Comparison of the most streamed tracks across different platforms (e.g., Spotify Playlists vs. other sources).
 
 ## Getting Started
 
@@ -78,9 +89,3 @@ Contributor names and contact info:
     * Uploaded the final version of `Spotify DataSet 2023.ipynb` with completed analysis.
 * 0.5
     * Uploaded the final version of README file.
-
-
-
-
-
-
