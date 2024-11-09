@@ -69,6 +69,10 @@ By running the analysis, you will uncover:
 - **Advanced Analysis**:  
   The top 10 most frequent artists were visualized. 44.6% of tracks are in Major mode, and 55.4% are in Minor mode.
 
+## Recommendation
+
+### Datetime Handling
+Combine the date-related columns (e.g., `released_day`, `released_month`, `released_year`) into a single column in the format `YYYY-MM-DD` and convert it to the proper datetime format. This ensures easier manipulation and consistency across your data, enhancing accuracy when working with incomplete or inconsistent data.
 
 ### Authors
 
